@@ -126,3 +126,7 @@ Fov : 🟢
 NoWaterDamage : 	🟡
 
 ![RobloxScreenShot20250205_215621061](https://github.com/user-attachments/assets/5cf36741-04a9-47f0-a191-12f65a461cb9)
+
+# Coming Soon
+
+Bloxfruit, Adopt me, Pet Simulator 99, Arsenal
