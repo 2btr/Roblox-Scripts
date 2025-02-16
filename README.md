@@ -127,6 +127,43 @@ NoWaterDamage : 	🟡
 
 ![RobloxScreenShot20250205_215621061](https://github.com/user-attachments/assets/5cf36741-04a9-47f0-a191-12f65a461cb9)
 
+# FlagWars
+
+ Tested on February 16, 2025 ⏰
+
+Headbox : 🟢
+
+
+Fly : 🟢
+
+
+
+
+Speed : 🟢
+
+
+
+
+HighJump : 🟢
+
+
+
+
+ESP : 🟢
+
+
+
+
+Hitbox : 🟢
+
+
+
+
+Fov : 🟢
+
+![RobloxScreenShot20250216_124942887](https://github.com/user-attachments/assets/6ed13d2f-19a5-4521-8bd9-f31d686d664b)
+
+
 # Coming Soon
 
 Bloxfruit, Adopt me, Pet Simulator 99, Arsenal
