@@ -161,6 +161,10 @@ Hitbox : 🟢
 
 Fov : 🟢
 
+
+
+
+AutoClicker : 🟢
 ![RobloxScreenShot20250216_124942887](https://github.com/user-attachments/assets/6ed13d2f-19a5-4521-8bd9-f31d686d664b)
 
 
