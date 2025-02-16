@@ -44,6 +44,18 @@ Fov : 🟢
 
 AutoClicker : 🟢
 
+
+
+UltraMiner : 🟢
+
+
+
+OreEsp : 🟢
+
+
+
+ESP : 🟢
+
 ![RobloxScreenShot20250129_143417908](https://github.com/user-attachments/assets/8e836ef0-5533-427f-b14f-07df3f30b385)
 
 # Pilfering Pirates:
